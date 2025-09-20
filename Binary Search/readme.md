@@ -1,7 +1,7 @@
 Leetcode 33 :  Search in Rotated Sorted Array
 -> Link : 
 Leetcode 34 : Find First and Last Position of Element in Sorted Array 
--> Link : 
+-> Link : https://leetcode.com/submissions/detail/1777213096/
 Leetcode 35 : Search Insert Position
 -> Link : 
 Leetcode 704 : Binary Search (fundamental)
