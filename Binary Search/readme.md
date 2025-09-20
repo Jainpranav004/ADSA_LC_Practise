@@ -3,9 +3,9 @@ Leetcode 33 :  Search in Rotated Sorted Array
 Leetcode 34 : Find First and Last Position of Element in Sorted Array 
 -> Link : https://leetcode.com/submissions/detail/1777213096/
 Leetcode 35 : Search Insert Position
--> Link : 
+-> Link : https://leetcode.com/submissions/detail/1774909006/
 Leetcode 704 : Binary Search (fundamental)
--> Link : 
+-> Link : https://leetcode.com/submissions/detail/1774880707/
 Leetcode 209 : Minimum Size Subarray Sum (alternate binary search approach) 
 -> Link : 
 Leetcode 441 : Arranging Coins (By binary search) 
