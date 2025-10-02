@@ -33,3 +33,12 @@ Link : https://leetcode.com/problems/maximum-subarray/submissions/1754214257
 Leetcode 2210 : COunt Hill and Valleys in Array
 
 Link : https://leetcode.com/problems/count-hills-and-valleys-in-an-array/submissions/1754307015
+
+Leetcode 169 : Majority Element
+
+Link : https://leetcode.com/problems/majority-element/submissions/1754330498
+
+Leetcode 229 : Majority Element 2
+
+Link : https://leetcode.com/submissions/detail/1789058910/
+
