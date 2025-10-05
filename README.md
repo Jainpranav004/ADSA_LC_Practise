@@ -1,57 +1,69 @@
 Advanced DSA Leetcode Problems done till now : 
 
-🔹 Array Basics & Manipulation : 
-26 – Remove Duplicates from Sorted Array , 
-80 – Remove Duplicates from Sorted Array II , 
-283 – Move Zeroes ,
-75 – Sort Colors (Dutch National Flag) , 
-53 – Maximum Subarray (Kadane’s Algorithm) ,
-643 – Maximum Average Subarray I , 
 
-🔹 Two Pointers: 
-15 – 3Sum , 
-16 – 3Sum Closest , 
-904 – Fruit Into Baskets (sliding window/two pointers) , 
-26, 80, 283 (also solved using two pointers) ,
+ARRAYS
+26. Remove Duplicates from Sorted Array
+1. Two Sum
+15. 3Sum
+16. 3Sum Closest
+59. Spiral Matrix II
+283. Move Zeroes
+75. Sort Colors
+80. Remove Duplicates from Sorted Array II
+53. Maximum Subarray
+2210. Count Hills and Valleys in an Array
+169. Majority Element
+229. Majority Element II
 
-🔹 Sliding Window: 
-3 – Longest Substring Without Repeating Characters , 
-209 – Minimum Size Subarray Sum , 
-904 – Fruit Into Baskets , 
-643 – Maximum Average Subarray I , 
-1052 – Grumpy Bookstore Owner , 
+STRING
+299. Bulls and Cows
+49. Group Anagrams
+451. Sort Characters By Frequency
 
-🔹 Hashmap / Frequency / Counting: 
-1 – Two Sum , 
-299 – Bulls and Cows , 
-451 – Sort Characters by Frequency , 
-169 – Majority Element (Boyer-Moore / hashmap) , 
-441 – Arranging Coins (math, can also use binary search) , 
-2210 – Count Hills and Valleys in an Array ,
+SLIDING WINDOW 
+643. Maximum Average Subarray I
+209. Minimum Size Subarray Sum
+1004. Max Consecutive Ones III
+3. Longest Substring Without Repeating Characters
+904. Fruit Into Baskets
+1052. Grumpy Bookstore Owner       
+          
+BINARY SEARCH
+441. Arranging Coins
+704. Binary Search
+https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1
+35. Search Insert Position
+34. Find First and Last Position of Element in Sorted Array
+33. Search in Rotated Sorted Array
+81. Search in Rotated Sorted Array II
+153. Find Minimum in Rotated Sorted Array
+540. Single Element in a Sorted Array
+162. Find Peak Element
+1011. Capacity To Ship Packages Within D Days
+875. Koko Eating Bananas
+74. Search a 2D Matrix
 
-🔹 Binary Search :
-33 – Search in Rotated Sorted Array , 
-34 – Find First and Last Position of Element in Sorted Array , 
-35 – Search Insert Position , 
-704 – Binary Search (fundamental) , 
-209 – Minimum Size Subarray Sum (alternate binary search approach) , 
-441 – Arranging Coins (binary search variant) , 
+LINKED_LIST
+237. Delete Node in a Linked List
+876. Middle of the Linked List
+19. Remove Nth Node From End of List
+206. Reverse Linked List
+234. Palindrome Linked List
+141. Linked List Cycle
+142. Linked List Cycle II
+160. Intersection of Two Linked Lists
+2. Add Two Numbers
+25. Reverse Nodes in k-Group
+61. Rotate List
+138. Copy List with Random Pointer
+Flattening a Linked List (GFG PRACTICE)
 
-🔹 Sorting / Greedy :
-164 – Maximum Gap , 
-229 – Majority Element II , 
-169 – Majority Element , 
-75 – Sort Colors ,
-
-🔹 Linked List: 
-160 – Intersection of Two Linked Lists , 
-
-🔹 Math / Simulation :
-657 – Robot Return to Origin , 
-441 – Arranging Coins (staircase math) , 
-
-🔹 Heap / Priority Queue
-1004 – Max Consecutive Ones III (sliding window + heap optional variant) , 
-
-🔹 Graph / Matrix BFS
-3195 – Find the Minimum Area to Cover All Ones in a Binary Matrix , 
+STACK & QUEUE
+Implement stack using array | Practice | GeeksforGeeks
+Stack using Linked List | Practice | GeeksforGeeks
+Queue Using Array | Practice | GeeksforGeeks
+Queue using Linked List | Practice | GeeksforGeeks
+Stack using Queue | Practice | GeeksforGeeks
+Queue using stack | Practice | GeeksforGeeks
+20. Valid Parentheses
+155. Min Stack
