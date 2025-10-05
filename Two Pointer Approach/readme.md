@@ -8,16 +8,16 @@ Leetcode 16 : 3Sum Closest
 
 Leetcode 904 : Fruit Into Baskets (sliding window/two pointers) 
 
--> Link : 
+-> Link : https://leetcode.com/problems/fruit-into-baskets/submissions/1771841203
 
 Leetcode 26 : Remove Duplicates from sorted Array 
 
--> Link : 
+-> Link : https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/1747348368
 
 Leetcode 80 : Remove Duplicates from sorted Array 2 
 
--> Link : 
+-> Link : https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/submissions/1750042936
 
 Leetcode 283 : Move Zeroes 
 
--> Link : 
+-> Link : https://leetcode.com/problems/move-zeroes/submissions/1752765066
