@@ -16,11 +16,11 @@ Leetcode 704 : Binary Search (fundamental)
 
 Leetcode 209 : Minimum Size Subarray Sum (alternate binary search approach) 
 
--> Link : 
+-> Link : https://leetcode.com/problems/minimum-size-subarray-sum/submissions/1789241602
 
 Leetcode 441 : Arranging Coins (By binary search) 
 
--> Link : 
+-> Link : https://leetcode.com/problems/arranging-coins/submissions/1754241761
 
 Leetcode 81 : Search in Rotated Sorted Array II
 

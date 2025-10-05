@@ -1,10 +1,10 @@
 Leetcode 15 : 3Sum 
 
--> Link :
+-> Link : https://leetcode.com/problems/3sum/submissions/1788459494
  
 Leetcode 16 : 3Sum Closest 
 
--> Link : 
+-> Link : https://leetcode.com/problems/3sum-closest/submissions/1747541222
 
 Leetcode 904 : Fruit Into Baskets (sliding window/two pointers) 
 

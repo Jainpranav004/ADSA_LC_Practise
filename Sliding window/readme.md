@@ -5,7 +5,7 @@ Leetcode 209 : Minimum Size Subarray Sum
 
 Leetcode 904 : Fruit Into Baskets
 
--> Link : 
+-> Link : https://leetcode.com/problems/fruit-into-baskets/submissions/1771841203
 
 Leetcode 643 : Maximum Average Subarray I 
 
@@ -13,7 +13,7 @@ Leetcode 643 : Maximum Average Subarray I
 
 Leetcode 1052 : Grumpy Bookstore Owner
 
--> Link : 
+-> Link : https://leetcode.com/problems/grumpy-bookstore-owner/submissions/1790373674
 
 
 Leetcode 1004 : Max Consecutive Ones III
