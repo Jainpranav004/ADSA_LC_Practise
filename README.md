@@ -1,7 +1,8 @@
 Advanced DSA Leetcode Problems done till now : 
 
-
+---------------------------------------------------------
 ARRAYS
+
 26. Remove Duplicates from Sorted Array
 1. Two Sum
 15. 3Sum
@@ -15,7 +16,9 @@ ARRAYS
 169. Majority Element
 229. Majority Element II
 
+----------------------------------------------------------------
 STRING
+
 299. Bulls and Cows
 
 49. Group Anagrams
@@ -36,7 +39,7 @@ SLIDING WINDOW
 
 1052. Grumpy Bookstore Owner       
 
-          
+-----------------------------------------------------------------------    
 BINARY SEARCH
 
 441. Arranging Coins
@@ -65,7 +68,7 @@ https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1
 
 74. Search a 2D Matrix
 
-
+------------------------------------------------------------------
 LINKED_LIST
 
 237. Delete Node in a Linked List
@@ -95,7 +98,7 @@ LINKED_LIST
 
 Flattening a Linked List (GFG PRACTICE)
 
-
+-------------------------------------------------------------------
 STACK & QUEUE
 
 Implement stack using array | Practice | GeeksforGeeks
